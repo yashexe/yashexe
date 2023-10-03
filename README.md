@@ -1,6 +1,6 @@
 # I am [Yash Bhavsar](https://yashexe.github.io/Yash-Bhavsar-s-Portfolio/). 👋 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=15000&color=F7F7F7&width=770&height=30&vCenter=true&lines=I'm+a+software+developer%2C+problem-solver%2C+and+part-time+blogger!)](https://git.io/typing-svg)
-* 🌱 I’m currently learning to implement Node.js and Express.js to get a better understanding of Backend Development
+* 🌱 I’m currently learning to implement Node.js and Express.js to get a better understanding of back-end development
 * 🔭 I'm looking to expand my horizon with front-end to create the Full Stack world I aspire to live in!
 * 🖥️ I'm pursuing a Summer 2024 Internship(May - August) specializing in Backend Development
 
