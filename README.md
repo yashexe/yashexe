@@ -4,7 +4,7 @@
 * 🌱 I’m currently honing my Data Structures and Algorithms skills!
 * 🖥️ I'm pursuing summer roles specializing in Software Engineering!
 
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://yashexe.medium.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-bhavsar-75a0081b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-bhavsar-75a0081b8/)
 <!-- ✨ ✨
 
 Here are some ideas to get you started:
