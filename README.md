@@ -1,5 +1,5 @@
 # I'm [Yash Bhavsar!](https://yashexe.github.io/) 👋 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=15000&color=F7F7F7&width=770&height=30&vCenter=true&lines=I'm+consistent%2C+resilient%2C+and+passionate+about+my+work%2C!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=15000&color=F7F7F7&width=770&height=30&vCenter=true&lines=I'm+consistent%2C+resilient%2C+and+passionate+about+my+work!)](https://git.io/typing-svg)
 * 🔭 I'm a software engineer!
 * 🌱 I’m currently honing my Data Structures and Algorithms skills!
 * 🖥️ I'm pursuing summer roles specializing in Software Engineering!
