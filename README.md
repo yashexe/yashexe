@@ -2,7 +2,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=15000&color=F7F7F7&width=770&height=30&vCenter=true&lines=I'm+consistent%2C+resilient%2C+and+passionate+about+my+work!)](https://git.io/typing-svg)
 * 🔭 I'm a software engineer!
 * 🌱 I’m currently honing my Data Structures and Algorithms skills!
-* 🖥️ I'm pursuing summer roles specializing in Software Engineering!
+* 🖥️ I'm pursuing new graduate roles specializing in Software Engineering!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-bhavsar-75a0081b8/)
 <!-- ✨ ✨
