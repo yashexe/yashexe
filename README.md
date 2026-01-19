@@ -2,9 +2,11 @@
 
 I am a **Software Engineer** and **Electrical Engineering** graduate focused on backend infrastructure, automation, and cloud architecture.
 
-- 🔭 **Currently:** Building production fintech platforms at **Finaptive**.
-- 💼 **Previously:** Design Automation at **AMD**.
-- 🌱 **Learning:** Advanced Data Structures & Algorithms.
+🔭 **Currently:** Building production fintech platforms at **Finaptive**.
+
+💼 **Previously:** Design Automation at **AMD**.
+
+🌱 **Learning:** Advanced Data Structures & Algorithms.
 
 ---
 
