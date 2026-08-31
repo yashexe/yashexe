@@ -1,7 +1,7 @@
 <h1 align="center">Yash Bhavsar</h1>
 
 <p align="center">
-  <b>Software Engineer.</b> Production fintech infrastructure by day, systems-heavy projects by night.
+  <b>Forward Deployed Software Engineer.</b> Production fintech infrastructure by day, agentic systems by night.
 </p>
 
 <p align="center">
@@ -13,48 +13,53 @@
   <a href="https://yashexe.github.io"><img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashexe&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=html,css&exclude_repo=kedro,pearai-app,first-contributions" height="160" alt="Top languages"/>
-  <img src="https://streak-stats.demolab.com?user=yashexe&hide_border=true&theme=transparent" height="160" alt="Streak"/>
-</p>
+---
 
+### Start with Adam
+
+**[Adam](https://github.com/yashexe/Adam)** is an agentic outreach pipeline: a fresh job posting goes in, a personalized cold email to the person who can act on it comes out, sitting in Gmail Drafts. By design, **no code path in the repo can send an email**. Two Claude agents do the research and the writing; deterministic code owns every consequence.
+
+- **8 stages, 2 tool-calling agents.** Agents propose, typed and audited code decides: address verification, send gating, per-company dedup and touch caps.
+- **Measured, not vibed.** The LLM judge's scores matched real interview outcomes **7 for 7** in a ground-truth eval, over **300+ live postings** with frozen anchor postings as drift alarms.
+- **The design rule, vindicated.** The contact-research agent named a real decision-maker **5/5**, and its one *high-confidence* address was wrong. A cheap deterministic check caught it before any human could act on it, lifting deliverable contacts from 3/5 to 5/5.
+
+The [README](https://github.com/yashexe/Adam#readme) leads with the evidence tables, then the architecture.
 
 ---
 
-### What I do
+### Also built
 
-I work on the parts of a system that are expensive to get wrong: **multi-tenant data pipelines, event-driven runtimes, and secure handling of sensitive data.** At Finaptive I build and operate cloud data-integration infrastructure on Azure — data connectors that move financial data from ERP and finance systems into planning and analytics destinations, with the scheduling, tenant isolation, and reliability work that keeps pipelines trustworthy.
-
-Outside work I build end-to-end systems to learn things properly. From a LLM transformer experiments to moving-object detection pipelines that finds real asteroids in telescope imagery.
-
----
-
-### 🛠 Tech
-
-**Languages** &nbsp;·&nbsp; Python · C++ · JavaScript/TypeScript · SQL · Bash · C
-
-**Backend & Data** &nbsp;·&nbsp; Flask · FastAPI · Celery · PostgreSQL · Redis · SQLAlchemy · Pydantic · Pandas/NumPy
-
-**Cloud & Infra** &nbsp;·&nbsp; Azure (Container Apps, ACR) · Docker · GitHub Actions CI/CD · AWS
-
-**ML / Applied** &nbsp;·&nbsp; PyTorch · sentence-transformers · LLM application design (retrieval, judging, budgeting)
-
----
-
-### 🚀 Featured projects
-
-<p align="center">
-  <a href="https://github.com/yashexe/crucible"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=crucible&hide_border=true&theme=transparent" height="115"/></a>
-  <a href="https://github.com/yashexe/algorithm-machine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=algorithm-machine&hide_border=true&theme=transparent" height="115"/></a>
-</p>
 <p align="center">
   <a href="https://github.com/yashexe/asterion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=asterion&hide_border=true&theme=transparent" height="115"/></a>
   <a href="https://github.com/yashexe/code-atlas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=code-atlas&hide_border=true&theme=transparent" height="115"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/yashexe/stride"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=stride&hide_border=true&theme=transparent" height="115"/></a>
-  <a href="https://github.com/yashexe/instaply"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=instaply&hide_border=true&theme=transparent" height="115"/></a>
+  <a href="https://github.com/yashexe/algorithm-machine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=algorithm-machine&hide_border=true&theme=transparent" height="115"/></a>
 </p>
+
+- **[asterion](https://github.com/yashexe/asterion)** finds asteroids in real telescope imagery. 100% recovery at SNR ≳ 11, zero false positives on injection-recovery benchmarks.
+- **[code-atlas](https://github.com/yashexe/code-atlas)** turns a repo's full history into an explorable knowledge graph with ownership and risk lenses.
+- **[stride](https://github.com/yashexe/stride)** screens equities for the turn from selling exhaustion to early accumulation. Every threshold config-driven, fully reproducible.
+- **[algorithm-machine](https://github.com/yashexe/algorithm-machine)** is an event-driven trading engine where a risk gate has the final say on every order.
+
+---
+
+### What I do
+
+I work on the parts of a system that are expensive to get wrong: **multi-tenant data pipelines, event-driven runtimes, and secure handling of financial data.** At Finaptive I build and operate the cloud data-integration platform our client delivery runs on: connectors that move financial data from ERP and finance systems into planning and analytics destinations, with the scheduling, tenant isolation, and reliability work that keeps pipelines trustworthy.
+
+---
+
+### 🛠 Tech
+
+**Languages** &nbsp;·&nbsp; Python · C++ · JavaScript/TypeScript · SQL · Bash
+
+**Backend & Data** &nbsp;·&nbsp; Flask · FastAPI · Celery · PostgreSQL · Redis · SQLAlchemy · Pydantic · Pandas/NumPy
+
+**Cloud & Infra** &nbsp;·&nbsp; Azure (Container Apps, ACR) · Docker · Kubernetes · GitHub Actions CI/CD
+
+**AI / Applied** &nbsp;·&nbsp; Claude API · agent orchestration · LLM-as-judge evals · PyTorch
 
 ---
 
