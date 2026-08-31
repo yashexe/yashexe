@@ -29,15 +29,6 @@ The [README](https://github.com/yashexe/Adam#readme) leads with the evidence tab
 
 ### Also built
 
-<p align="center">
-  <a href="https://github.com/yashexe/asterion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=asterion&hide_border=true&theme=transparent" height="115"/></a>
-  <a href="https://github.com/yashexe/code-atlas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=code-atlas&hide_border=true&theme=transparent" height="115"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/yashexe/stride"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=stride&hide_border=true&theme=transparent" height="115"/></a>
-  <a href="https://github.com/yashexe/algorithm-machine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yashexe&repo=algorithm-machine&hide_border=true&theme=transparent" height="115"/></a>
-</p>
-
 - **[asterion](https://github.com/yashexe/asterion)** finds asteroids in real telescope imagery. 100% recovery at SNR ≳ 11, zero false positives on injection-recovery benchmarks.
 - **[code-atlas](https://github.com/yashexe/code-atlas)** turns a repo's full history into an explorable knowledge graph with ownership and risk lenses.
 - **[stride](https://github.com/yashexe/stride)** screens equities for the turn from selling exhaustion to early accumulation. Every threshold config-driven, fully reproducible.
