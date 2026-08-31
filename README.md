@@ -10,12 +10,13 @@
 
 ---
 
-**Start with [Adam](https://github.com/yashexe/Adam)** — an agentic outreach pipeline. A fresh job posting goes in; a personalized email to the person who can act on it lands in Gmail Drafts. Two Claude agents do the research and writing, deterministic code owns every consequence, and **no code path in the repo can send an email**.
+### What I'm building
 
-It's measured: the LLM judge matched real interview outcomes **7 for 7**, and the contact agent went **5/5** on real people with a deterministic check catching its one confident wrong address. The [README](https://github.com/yashexe/Adam#readme) leads with the evidence.
+[Adam](https://github.com/yashexe/Adam) — an agentic pipeline that turns fresh job postings into personalized outreach. LLM agents handle the research and drafting, deterministic code handles contact verification, rate limits, and dedup. There is no send path in the codebase; drafts land in Gmail and a human sends them. Ground-truth evals are in the repo.
 
-**Also here:**
-- [asterion](https://github.com/yashexe/asterion) — finds real asteroids in telescope imagery. 100% recovery at SNR ≳ 11, zero false positives.
-- [code-atlas](https://github.com/yashexe/code-atlas) — a repo's history as an explorable knowledge graph.
-- [stride](https://github.com/yashexe/stride) — equity screener for the turn from selling exhaustion to accumulation.
-- [algorithm-machine](https://github.com/yashexe/algorithm-machine) — trading engine where a risk gate has the final say on every order.
+### Other projects
+
+- [asterion](https://github.com/yashexe/asterion) — moving-object detection that finds real asteroids in telescope imagery
+- [code-atlas](https://github.com/yashexe/code-atlas) — a repo's full history as an explorable knowledge graph
+- [stride](https://github.com/yashexe/stride) — equity screener for the turn from selling exhaustion to early accumulation
+- [algorithm-machine](https://github.com/yashexe/algorithm-machine) — event-driven trading engine where the risk gate has the final say
